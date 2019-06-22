@@ -1,4 +1,4 @@
-XDS Modula-2/Oberon-2 Development System for Windows
+XDS Modula-2/Oberon-2 Development System for Linux/Windows
 ====================================================
 
 The XDS development system facilitate software development in the Modula-2 and Oberon-2 languages. The unique feature of XDS is seamless integration between the two, which enables you to mix Modula-2 and Oberon-2 modules in one project freely. It includes two toolchains: Native XDS-x86 and XDS-C.
