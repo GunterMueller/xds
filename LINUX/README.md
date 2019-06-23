@@ -15,4 +15,17 @@ Building from source
 Work in progress.
 
 
+Create your building environment:
+- Go to the 'config' repository directory,
+- Rename the 'config\.env-COMPUTERNAME.bsc' according to the name of your workstation,
+- Set path to external tools inside this file.
+
+Go to the root of repository and build everything using 'xdswork.bat' script:
+
+    xdswork.sh
+
+The XDS development system will be in the 'XDS' directory.
+
+
+
 Copyright © 2019 [Excelsior LLC](https://excelsior.ru)
